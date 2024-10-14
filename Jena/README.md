@@ -10,6 +10,9 @@
 
 `D:\jena\apache-jena-3.9.0\bat>tdbloader.bat --loc="D:\jena\tdb" "D:\jena\zengguofanjiapu.nt"`
 
-## 4 启动Jena推理机
+## 4 本地启动Jena推理机
 
 `D:\jena\apache-jena-fuseki-3.9.0>fuseki-server.bat`
+
+## 5 网页启动服务器
+`http://localhost:3030/`
