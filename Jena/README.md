@@ -4,12 +4,12 @@
 
 ## 2 规则导入
 
-将 ·rules.ttl· 迁移到·apache-jena-fuseki-3.9.0\run\databases\·
+将 `rules.ttl` 迁移到`apache-jena-fuseki-3.9.0\run\databases\`
 
 ## 3 家谱数据导入
 
-·D:\jena\apache-jena-3.9.0\bat>tdbloader.bat --loc="D:\jena\tdb" "D:\jena\zenguofanjiapu.nt"·
+`D:\jena\apache-jena-3.9.0\bat>tdbloader.bat --loc="D:\jena\tdb" "D:\jena\zenguofanjiapu.nt"`
 
 ## 4 启动Jena推理机
 
-·D:\jena\apache-jena-fuseki-3.9.0>fuseki-server.bat·
+`D:\jena\apache-jena-fuseki-3.9.0>fuseki-server.bat`
