@@ -1,6 +1,6 @@
 ## 1 环境安装
 
-安装apache-jena-3.9.0和apache-jena-fuseki-3.9.0
+[安装apache-jena-3.9.0和apache-jena-fuseki-3.9.0](https://archive.apache.org/dist/jena/source/)
 
 ## 2 规则导入
 
