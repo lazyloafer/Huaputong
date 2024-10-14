@@ -8,7 +8,7 @@
 
 ## 3 家谱数据导入
 
-`D:\jena\apache-jena-3.9.0\bat>tdbloader.bat --loc="D:\jena\tdb" "D:\jena\zenguofanjiapu.nt"`
+`D:\jena\apache-jena-3.9.0\bat>tdbloader.bat --loc="D:\jena\tdb" "D:\jena\zengguofanjiapu.nt"`
 
 ## 4 启动Jena推理机
 
