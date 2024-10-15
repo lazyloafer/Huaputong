@@ -919,6 +919,7 @@ if __name__ == '__main__':
     qa_interface = QAInterface(myId)
 
     ## 多条件匹配机制（筛选同名人物）
+    ## 我们默认用一个人的父亲来标识同名人物的具体个体
     father_names, is_same_people = match_same_people_intro(names=['陈氏'], question='陈氏出生于长沙', qa_interface=qa_interface, myId=myId)
     if is_same_people:
         father_names = ''
