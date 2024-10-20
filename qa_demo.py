@@ -1,4 +1,5 @@
 # encoding=utf-8
+# Copyright © 2024 合肥工业大学大数据知识工程实验室
 import jena_sparql_endpoint
 import os
 import itertools
