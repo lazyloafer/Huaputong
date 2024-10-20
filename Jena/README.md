@@ -1,3 +1,4 @@
+Copyright © 2024 合肥工业大学大数据知识工程实验室
 ## 1 环境安装
 
 [安装apache-jena-3.9.0和apache-jena-fuseki-3.9.0](https://archive.apache.org/dist/jena/source/)
